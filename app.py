@@ -1,6 +1,7 @@
 def addition(a,b,c):
     return a+b+c
 
+<<<<<<< HEAD
 def substraction(a,b,d):
     return a-b-d
     
